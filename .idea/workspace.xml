@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5bf8d6f9-d446-44a5-a95c-5764952edc7c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/10min.hrml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cities.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonnn.html.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/set2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/showus.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuples1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edit.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment.html" beforeDir="false" afterPath="$PROJECT_DIR$/assignment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuples1.py" beforeDir="false" afterPath="$PROJECT_DIR$/tuples1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +18,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -51,6 +45,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/25472/Desktop/git/hello",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -172,7 +167,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678783221771</updated>
-      <workItem from="1678783222913" duration="18111000" />
+      <workItem from="1678783222913" duration="24309000" />
     </task>
     <servers />
   </component>
